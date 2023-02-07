@@ -2,7 +2,7 @@
   "$schema": "../schemas/domain.schema.json",
   "description": "NEXUS WEBSITE.",
   "domain": "is-an.app",
-  "subdomain": "emofy",
+  "subdomain": "Nexus",
   "owner": {
     "email": "AYUsHtyagi_231@proton.me"
   },
